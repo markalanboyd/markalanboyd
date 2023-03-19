@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @markalanboyd
 - 👀 I’m interested in ... Audulus, programming, and teaching
-- 🌱 I’m currently learning ... WebDev & Python
+- 🌱 I’m currently learning ... AWS, Web Development, & Python
 - 💞️ I’m looking to collaborate on ... Open-source projects
 - 📫 How to reach me ... @biminiroad on the Audulus Discord https://discord.gg/DyVNeBhK2b
 
