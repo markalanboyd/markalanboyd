@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Audulus, programming, and teaching
 - 🌱 I’m currently learning ... AWS, Web Development, & Python
 - 💞️ I’m looking to collaborate on ... Open-source projects
-- 📫 How to reach me ... @biminiroad on the Audulus Discord https://discord.gg/DyVNeBhK2b
+- 📫 How to reach me ... markalanboyd@gmail.com
 
 <!---
 markalanboyd/markalanboyd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
