@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @markalanboyd
 - 👀 I’m interested in ... Audulus, programming, and teaching
-- 🌱 I’m currently learning ... AWS, Web Development, & Python
+- 🌱 I’m currently learning ... AWS, Web Development, Python, & Rust
 - 💞️ I’m looking to collaborate on ... Open-source projects
 - 📫 How to reach me ... markalanboyd@gmail.com
 
